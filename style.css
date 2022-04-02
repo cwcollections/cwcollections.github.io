@@ -41,7 +41,7 @@ html, body {
 }
 
 .navbar .logo a {
-  color: #fff;
+  color: black;
   font-size: 30px;
   font-weight: 600;
 }
@@ -61,7 +61,7 @@ html, body {
 }
 
 .navbar .menu li a {
-  color: #fff;
+  color: black;
   font-size: 22px;
   font-weight: 500;
   margin-left: 25px;
@@ -112,10 +112,10 @@ html, body {
 /* HOME SECTION STYLING */
 .home {
   display: flex;
-  background: url("img/cwhero.jpg") no-repeat center;
-  background-color: black;
+  background: url("img/CWcollage.jpg") no-repeat center;
+  background-color: white;
   height: 100vh;
-  color: #fff;
+  color: black;
   min-height: 500px;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -459,9 +459,6 @@ footer {
     margin: 20px 0;
     font-size: 25px;
   }
-  .home {
-    background-size: cover;
-  }
   .home .home-content .text-2 {
     font-size: 70px;
   }
@@ -494,9 +491,6 @@ footer {
 @media (max-width: 690px) {
   .max-width {
     padding: 0 23px;
-  }
-  .home {
-    background-size: cover;
   }
   .home .home-content .text-1 {
     font-size: 25px;

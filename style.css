@@ -229,6 +229,10 @@ section .title::after {
   text-align: justify;
 }
 
+.about .about-content .right a {
+  color: crimson;
+}
+
 /* COLLECTIONS SECTION STYLING */
 .collections .title::after {
   content: "see my work";

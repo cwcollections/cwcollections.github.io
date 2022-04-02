@@ -432,9 +432,11 @@ footer {
   .menu-btn i {
     display: block;
     z-index: 999;
+    color: black;
   }
   .menu-btn i.active:before {
     content: '\f00d';
+    color: black;
   }
   .navbar .menu {
     position: fixed;
@@ -458,6 +460,7 @@ footer {
     display: inline-block;
     margin: 20px 0;
     font-size: 25px;
+    color: white;
   }
   .home .home-content .text-2 {
     font-size: 70px;

@@ -495,6 +495,9 @@ footer {
   .max-width {
     padding: 0 23px;
   }
+  .home {
+    background-size: cover;
+  }
   .home .home-content .text-1 {
     font-size: 25px;
   }

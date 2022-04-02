@@ -24,15 +24,8 @@ $(document).ready(function() {
   });
 
   // TYPING ANIMATION SCRIPT
-  let typed1 = new Typed('.typed-1', {
-    strings: ["Model", "Blackjack Dealer", "BossBabe"],
-    typeSpeed: 100,
-    backSpeed: 60,
-    loop: true
-  });
-
-  let typed2 = new Typed('.typed-2', {
-    strings: ["Model", "Blackjack Dealer", "BossBabe"],
+  let typed1 = new Typed('.typed', {
+    strings: ["Model", "Card Dealer", "Entrepreneur"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true

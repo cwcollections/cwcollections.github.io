@@ -229,6 +229,10 @@ section .title::after {
   text-align: justify;
 }
 
+.about .about-content .right li {
+  margin-left: 20px;
+}
+
 .about .about-content .right a {
   color: crimson;
 }

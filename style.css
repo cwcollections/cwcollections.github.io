@@ -44,10 +44,13 @@ html, body {
   color: black;
   font-size: 30px;
   font-weight: 600;
+  background: crimson;
+  border-radius: 10px;
+  padding: 5px;
 }
 
 .navbar .logo a span {
-  color: crimson;
+  color: white;
   transition: all 0.3s ease;
 }
 
@@ -66,10 +69,13 @@ html, body {
   font-weight: 500;
   margin-left: 25px;
   transition: color 0.3s ease;
+  background-color: crimson;
+  border-radius: 10px;
+  padding: 5px;
 }
 
 .navbar .menu li a:hover {
-  color: crimson;
+  color: white;
 }
 
 .navbar.sticky .menu li a:hover {

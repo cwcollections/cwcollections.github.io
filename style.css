@@ -441,10 +441,16 @@ footer {
     display: block;
     z-index: 999;
     color: black;
+    background: crimson;
+    border-radius: 10px;
+    padding: 5px;
   }
   .menu-btn i.active:before {
     content: '\f00d';
     color: black;
+    background: crimson;
+    border-radius: 10px;
+    padding: 5px;
   }
   .navbar .menu {
     position: fixed;
@@ -469,6 +475,7 @@ footer {
     margin: 20px 0;
     font-size: 25px;
     color: white;
+    background: none;
   }
   .home .home-content .text-2 {
     font-size: 70px;

@@ -243,6 +243,16 @@ section .title::after {
   color: crimson;
 }
 
+.about .about-content .non-profits {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.about .about-content .senate-race {
+  margin-top: 10px;
+}
+
 /* COLLECTIONS SECTION STYLING */
 .collections .title::after {
   content: "see my work";

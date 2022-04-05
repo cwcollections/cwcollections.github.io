@@ -520,8 +520,8 @@ footer {
   .max-width {
     padding: 0 23px;
   }
-  .home {
-    background-size: cover;
+  .navbar .logo a {
+    font-size: 25px;
   }
   .home .home-content .text-1 {
     font-size: 25px;

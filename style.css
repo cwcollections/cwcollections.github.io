@@ -280,10 +280,16 @@ section .title::after {
   opacity: .75;
 } */
 
+.pageant {
+  margin-bottom: 20px;
+  text-align: justify;
+  padding-left: 30px;
+}
+
 .swiper {
   width: 60%;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .swiper-slide {
@@ -511,6 +517,9 @@ footer {
     width: 100%;
     margin-bottom: 35px;
   }
+  .pageant {
+    padding-left: 0;
+  }
   .swiper {
     width: 75%;
   }
@@ -531,6 +540,9 @@ footer {
   }
   .home .home-content .text-3 {
     font-size: 30px;
+  }
+  .pageant {
+    padding-left: 0;
   }
   .footer-content {
     font-size: 12px;

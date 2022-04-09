@@ -550,6 +550,9 @@ footer {
   .about .about-content .right {
     font-size: 14px;
   }
+  .about .about-content .non-profits img {
+    width: 110px;
+  }
   .pageant {
     padding-left: 0;
   }

@@ -250,7 +250,8 @@ section .title::after {
 }
 
 .about .about-content .senate-race {
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 /* COLLECTIONS SECTION STYLING */
@@ -540,6 +541,14 @@ footer {
   }
   .home .home-content .text-3 {
     font-size: 30px;
+  }
+  .about .about-content .right .text {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .about .about-content .right {
+    font-size: 14px;
   }
   .pageant {
     padding-left: 0;

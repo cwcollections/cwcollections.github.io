@@ -254,6 +254,11 @@ section .title::after {
   margin-bottom: 20px;
 }
 
+/* ABOUT SECTION STYLING */
+.fitspiration .title::after {
+  content: "sign up here";
+}
+
 /* COLLECTIONS SECTION STYLING */
 .collections .title::after {
   content: "see my work";

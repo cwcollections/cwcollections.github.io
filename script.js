@@ -25,7 +25,7 @@ $(document).ready(function() {
 
   // TYPING ANIMATION SCRIPT
   let typed1 = new Typed('.typed', {
-    strings: ["Model", "Card Dealer", "Entrepreneur"],
+    strings: ["Model", "Athlete", "Fit-preneur", "Fitspiration Bootcamp Queen", "your Miss Nevada"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
